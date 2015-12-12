@@ -1,0 +1,233 @@
+2015-12-11 22:34:58,769 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:34:58,770 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:34:58,770 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:34:58,770 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:34:58,770 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:34:59,513 INFO  [Log] Excel sheet opened 
+2015-12-11 22:34:59,513 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:35:02,390 INFO  [Log] New driver instantiated 
+2015-12-11 22:35:07,229 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:35:07,263 INFO  [Log] Web application launched successfully 
+2015-12-11 22:35:10,844 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:35:52,394 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:35:52,453 INFO  [Log] UserName text box is not found on the Home Page 
+2015-12-11 22:35:52,893 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Window not found. The browser window may have been closed.
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'Hemants-MacBook-Pro.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.1', java.version: '1.7.0_79'
+Session ID: a3bbdc6a-c7d8-2e4f-9e68-c8b72cee83b5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=42.0}] 
+2015-12-11 22:35:52,897 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-11 22:35:52,897 INFO  [Log] X 
+2015-12-11 22:35:52,897 INFO  [Log] X 
+2015-12-11 22:35:52,897 INFO  [Log] X 
+2015-12-11 22:35:52,897 INFO  [Log] X 
+2015-12-11 22:36:02,909 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:36:02,909 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:36:02,909 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:36:02,909 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:36:02,909 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:36:03,487 INFO  [Log] Excel sheet opened 
+2015-12-11 22:36:03,487 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:36:06,071 INFO  [Log] New driver instantiated 
+2015-12-11 22:36:12,945 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:36:15,124 INFO  [Log] Web application launched successfully 
+2015-12-11 22:36:24,635 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:36:27,426 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:37:22,667 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:37:22,668 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:37:22,668 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:37:22,668 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:37:22,668 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:37:23,256 INFO  [Log] Excel sheet opened 
+2015-12-11 22:37:23,257 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:37:25,792 INFO  [Log] New driver instantiated 
+2015-12-11 22:37:33,181 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:37:35,025 INFO  [Log] Web application launched successfully 
+2015-12-11 22:37:42,129 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:37:44,235 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:37:46,003 INFO  [Log] UserName text box is found on the Home Page 
+2015-12-11 22:37:47,224 INFO  [Log] hemanto is entered in UserName text box 
+2015-12-11 22:38:35,424 INFO  [Log] Password text box is found on the Home Page 
+2015-12-11 22:38:43,885 INFO  [Log] Fail is entered in Password text box 
+2015-12-11 22:38:43,895 INFO  [Log] Sign In button is found on the Home Page 
+2015-12-11 22:38:46,109 INFO  [Log] Click action is performed on Submit button 
+2015-12-11 22:39:06,201 INFO  [Log] Sign Off Link is not found on the Flight Finder Page 
+2015-12-11 22:39:06,754 ERROR [Log] Unable to locate element: {"method":"link text","selector":"SIGN-OFF"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'Hemants-MacBook-Pro.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.1', java.version: '1.7.0_79'
+*** Element info: {Using=link text, value=SIGN-OFF}
+Session ID: 9a9c7601-2547-d442-965b-f05729e99597
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=42.0}] 
+2015-12-11 22:39:06,761 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-11 22:39:06,761 INFO  [Log] X 
+2015-12-11 22:39:06,761 INFO  [Log] X 
+2015-12-11 22:39:06,761 INFO  [Log] X 
+2015-12-11 22:39:06,761 INFO  [Log] X 
+2015-12-11 22:40:09,719 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:40:09,720 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:40:09,720 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:40:09,720 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:40:09,720 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:40:10,338 INFO  [Log] Excel sheet opened 
+2015-12-11 22:40:10,338 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:40:13,019 INFO  [Log] New driver instantiated 
+2015-12-11 22:40:20,507 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:40:22,342 INFO  [Log] Web application launched successfully 
+2015-12-11 22:40:30,318 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:40:31,495 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:40:31,511 INFO  [Log] UserName text box is found on the Home Page 
+2015-12-11 22:40:31,557 INFO  [Log] hemanto is entered in UserName text box 
+2015-12-11 22:42:00,512 INFO  [Log] Password text box is found on the Home Page 
+2015-12-11 22:42:00,568 INFO  [Log] Fail is entered in Password text box 
+2015-12-11 22:42:00,584 INFO  [Log] Sign In button is found on the Home Page 
+2015-12-11 22:42:03,451 INFO  [Log] Click action is performed on Submit button 
+2015-12-11 22:42:23,584 INFO  [Log] Sign Off Link is not found on the Flight Finder Page 
+2015-12-11 22:42:24,066 ERROR [Log] Unable to locate element: {"method":"link text","selector":"SIGN-OFF"}
+Command duration or timeout: 20.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'Hemants-MacBook-Pro.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.1', java.version: '1.7.0_79'
+*** Element info: {Using=link text, value=SIGN-OFF}
+Session ID: 6085a829-3ff3-eb46-8920-4e5a34e716fe
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=42.0}] 
+2015-12-11 22:42:24,075 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-11 22:42:24,075 INFO  [Log] X 
+2015-12-11 22:42:24,075 INFO  [Log] X 
+2015-12-11 22:42:24,075 INFO  [Log] X 
+2015-12-11 22:42:24,075 INFO  [Log] X 
+2015-12-11 22:43:17,337 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:43:17,338 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:43:17,338 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:43:17,338 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:43:17,338 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:43:17,996 INFO  [Log] Excel sheet opened 
+2015-12-11 22:43:17,996 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:43:20,570 INFO  [Log] New driver instantiated 
+2015-12-11 22:43:26,690 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:43:26,706 INFO  [Log] Web application launched successfully 
+2015-12-11 22:43:29,815 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:43:31,215 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:43:31,231 INFO  [Log] UserName text box is found on the Home Page 
+2015-12-11 22:43:31,286 INFO  [Log] hemanto is entered in UserName text box 
+2015-12-11 22:44:40,456 INFO  [Log] Password text box is found on the Home Page 
+2015-12-11 22:44:40,537 INFO  [Log] Fail is entered in Password text box 
+2015-12-11 22:44:40,552 INFO  [Log] Sign In button is found on the Home Page 
+2015-12-11 22:44:43,184 INFO  [Log] Click action is performed on Submit button 
+2015-12-11 22:45:03,334 INFO  [Log] Sign Off Link is not found on the Flight Finder Page 
+2015-12-11 22:45:04,008 ERROR [Log] Unable to locate element: {"method":"link text","selector":"SIGN-OFF"}
+Command duration or timeout: 20.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'Hemants-MacBook-Pro.local', ip: '192.168.0.101', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.1', java.version: '1.7.0_79'
+*** Element info: {Using=link text, value=SIGN-OFF}
+Session ID: 1c63cc15-a185-0643-9d9e-d07908f39e20
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=42.0}] 
+2015-12-11 22:45:04,015 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-11 22:45:04,015 INFO  [Log] X 
+2015-12-11 22:45:04,015 INFO  [Log] X 
+2015-12-11 22:45:04,015 INFO  [Log] X 
+2015-12-11 22:45:04,015 INFO  [Log] X 
+2015-12-11 22:45:22,129 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:45:22,129 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:45:22,129 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:45:22,129 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:45:22,129 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:45:22,676 INFO  [Log] Excel sheet opened 
+2015-12-11 22:45:22,676 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:45:25,276 INFO  [Log] New driver instantiated 
+2015-12-11 22:45:32,165 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:45:34,128 INFO  [Log] Web application launched successfully 
+2015-12-11 22:45:34,224 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:45:34,912 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:45:34,929 INFO  [Log] UserName text box is found on the Home Page 
+2015-12-11 22:45:34,981 INFO  [Log] hemanto is entered in UserName text box 
+2015-12-11 22:45:34,991 INFO  [Log] Password text box is found on the Home Page 
+2015-12-11 22:45:35,039 INFO  [Log] 123123 is entered in Password text box 
+2015-12-11 22:45:35,046 INFO  [Log] Sign In button is found on the Home Page 
+2015-12-11 22:45:37,017 INFO  [Log] Click action is performed on Submit button 
+2015-12-11 22:45:37,080 INFO  [Log] Sign Off Link is found on the Flight Finder Page 
+2015-12-11 22:45:37,315 ERROR [Log] Test Case Failed because of Verification 
+2015-12-11 22:45:37,320 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-11 22:45:37,320 INFO  [Log] X 
+2015-12-11 22:45:37,320 INFO  [Log] X 
+2015-12-11 22:45:37,320 INFO  [Log] X 
+2015-12-11 22:45:37,320 INFO  [Log] X 
+2015-12-11 22:48:50,453 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:48:50,454 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:48:50,454 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:48:50,454 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:48:50,454 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:48:51,052 INFO  [Log] Excel sheet opened 
+2015-12-11 22:48:51,052 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:48:53,584 INFO  [Log] New driver instantiated 
+2015-12-11 22:49:01,857 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:49:03,779 INFO  [Log] Web application launched successfully 
+2015-12-11 22:49:03,882 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:49:04,654 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:49:04,669 INFO  [Log] UserName text box is found on the Home Page 
+2015-12-11 22:49:04,721 INFO  [Log] hemanto is entered in UserName text box 
+2015-12-11 22:49:08,157 INFO  [Log] Password text box is found on the Home Page 
+2015-12-11 22:49:08,203 INFO  [Log] 123123 is entered in Password text box 
+2015-12-11 22:49:08,215 INFO  [Log] Sign In button is found on the Home Page 
+2015-12-11 22:49:10,829 INFO  [Log] Click action is performed on Submit button 
+2015-12-11 22:49:10,876 INFO  [Log] Sign Off Link is found on the Flight Finder Page 
+2015-12-11 22:49:35,296 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-11 22:49:35,297 INFO  [Log] X 
+2015-12-11 22:49:35,297 INFO  [Log] X 
+2015-12-11 22:49:35,297 INFO  [Log] X 
+2015-12-11 22:49:35,297 INFO  [Log] X 
+2015-12-11 22:56:55,423 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:56:55,424 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:56:55,424 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-11 22:56:55,424 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:56:55,424 INFO  [Log] **************************************************************************************** 
+2015-12-11 22:56:56,393 INFO  [Log] Excel sheet opened 
+2015-12-11 22:56:56,393 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-11 22:56:59,848 INFO  [Log] New driver instantiated 
+2015-12-11 22:57:07,715 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-11 22:57:09,592 INFO  [Log] Web application launched successfully 
+2015-12-11 22:57:09,700 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-11 22:57:10,475 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-11 22:57:10,492 INFO  [Log] UserName text box is found on the Home Page 
+2015-12-11 22:57:10,549 INFO  [Log] hemanto is entered in UserName text box 
+2015-12-11 22:57:10,570 INFO  [Log] Password text box is found on the Home Page 
+2015-12-11 22:57:10,617 INFO  [Log] 123123 is entered in Password text box 
+2015-12-11 22:57:10,626 INFO  [Log] Sign In button is found on the Home Page 
+2015-12-11 22:57:12,444 INFO  [Log] Click action is performed on Submit button 
+2015-12-11 22:57:12,484 INFO  [Log] Sign Off Link is found on the Flight Finder Page 
+2015-12-11 22:57:12,609 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-11 22:57:12,610 INFO  [Log] X 
+2015-12-11 22:57:12,610 INFO  [Log] X 
+2015-12-11 22:57:12,610 INFO  [Log] X 
+2015-12-11 22:57:12,610 INFO  [Log] X 
+2015-12-12 16:14:38,667 INFO  [Log] **************************************************************************************** 
+2015-12-12 16:14:38,669 INFO  [Log] **************************************************************************************** 
+2015-12-12 16:14:38,669 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test_SingIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-12 16:14:38,669 INFO  [Log] **************************************************************************************** 
+2015-12-12 16:14:38,669 INFO  [Log] **************************************************************************************** 
+2015-12-12 16:14:39,657 INFO  [Log] Excel sheet opened 
+2015-12-12 16:14:39,657 INFO  [Log] Total number of Row used return as &lt; 1 &gt;. 
+2015-12-12 16:14:42,823 INFO  [Log] New driver instantiated 
+2015-12-12 16:14:54,303 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-12-12 16:14:56,511 INFO  [Log] Web application launched successfully 
+2015-12-12 16:14:56,615 INFO  [Log] Sign On link is found on the Home Page 
+2015-12-12 16:14:57,390 INFO  [Log] Click action is perfromed on My Account link 
+2015-12-12 16:14:57,407 INFO  [Log] UserName text box is found on the Home Page 
+2015-12-12 16:14:57,468 INFO  [Log] hemanto is entered in UserName text box 
+2015-12-12 16:14:57,480 INFO  [Log] Password text box is found on the Home Page 
+2015-12-12 16:14:57,532 INFO  [Log] 123123 is entered in Password text box 
+2015-12-12 16:14:57,545 INFO  [Log] Sign In button is found on the Home Page 
+2015-12-12 16:14:59,678 INFO  [Log] Click action is performed on Submit button 
+2015-12-12 16:14:59,726 INFO  [Log] Sign Off Link is found on the Flight Finder Page 
+2015-12-12 16:14:59,863 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-12 16:14:59,863 INFO  [Log] X 
+2015-12-12 16:14:59,863 INFO  [Log] X 
+2015-12-12 16:14:59,863 INFO  [Log] X 
+2015-12-12 16:14:59,863 INFO  [Log] X 

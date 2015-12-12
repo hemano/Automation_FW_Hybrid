@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[SignIn Action is successfully perfomred]]>
+    </line>
+    <line>
+      <![CDATA[Verification passed for ReservationPage_Title]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21482" started-at="2015-12-12T10:44:38Z" finished-at="2015-12-12T10:44:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21482" started-at="2015-12-12T10:44:38Z" finished-at="2015-12-12T10:44:59Z">
+      <class name="com.framework.testCases.Test_SingIn">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.framework.testCases.Test_SingIn@1fe398a0]" name="beforeTest" is-config="true" duration-ms="18093" started-at="2015-12-12T16:14:38Z" finished-at="2015-12-12T16:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="main()[pri:0, instance:com.framework.testCases.Test_SingIn@1fe398a0]" name="main" duration-ms="3348" started-at="2015-12-12T16:14:56Z" finished-at="2015-12-12T16:14:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SignIn Action is successfully perfomred]]>
+            </line>
+            <line>
+              <![CDATA[Verification passed for ReservationPage_Title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.framework.testCases.Test_SingIn@1fe398a0]" name="afterMethod" is-config="true" duration-ms="15" started-at="2015-12-12T16:14:59Z" finished-at="2015-12-12T16:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.framework.testCases.Test_SingIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
