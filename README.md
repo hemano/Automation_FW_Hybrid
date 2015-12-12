@@ -6,6 +6,7 @@ Components of the framework:
 2. TestNg - Unit Testing framework
 3. Maven - manage dependencies
 4. Log4j
+5. testData.xlsx - Test Data
 
 How to run the test:
 
